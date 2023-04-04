@@ -1,2 +1,6 @@
 # Equb-Website
 Equb is a traditional way of saving money. Some people that know eachother well will gather and form a group to save money, and the amount of the cash is constant and depending on the number of participators the length of the equb will be dicided. Each member will deposit the decided money per month until all the people in that group will get their money. Based on this traditional money saving method, our WebTech instructor gave us a project that stores the group members vital information and the scale of money they wanted to save each month. After collecting this data, the system will generate a random winner for the month and award their money.
+
+# Let's see how it works!
+First the skeleton of the web page is built, which is the user interacts with. To build the basic structure we used a frame work that is mainly known as Bootstrap. After we linked our page to the boot site, we started creating the registration form, and started accepting the info's about our user. After the user enters his data clicked the Submit button, the form will be checked if it's whether validate or invalidate. And the method we used to validate these form is very easy which is, if the input field is empty or if there is syntax error and the user clicks the submit button, it'll give us error message. And it is done by if-else method on the JavaScript code.
+
